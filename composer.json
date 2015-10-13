@@ -1,8 +1,0 @@
-{
-  "require": {
-    "php": "~5.4.43"
-  },
-  "require-dev": {
-    "heroku/heroku-buildpack-php": "*"
-  }
-}
